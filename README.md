@@ -1,6 +1,9 @@
 # University-Success-Analysis
 This Is My Capstone Project
 
+THIS IS THE LINK OF PPT OF UNIVERSITY SUCCESS ANALYSIS
+https://docs.google.com/presentation/d/1SXQJ5Zr4_xV5Fpz9z1Lircj9XZKkoatN/edit?usp=sharing&ouid=101727593801684291068&rtpof=true&sd=true
+
 Problem Statement
 Compare university rankings across different systems, assess the impact of ranking criteria on university positions, and analyze changes in university metrics over time. Utilize SQL and Excel for data aggregation and for EDA. Create a Power BI dashboard to provide a comprehensive view of university rankings.
 
